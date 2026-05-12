@@ -1,168 +1,130 @@
 {
   "date": "2026-05-13",
-  "sessions": {
-    "evening": {
-      "date": "2026-05-13",
-      "session": "evening",
-      "hot": [
-        {
-          "title": "南京审计大学偷拍男生被开除",
-          "platforms": [
-            "微博",
-            "知乎"
-          ],
-          "heat": 903417,
-          "note": "研究生疑偷拍女生裙底被取消公务员录用"
-        },
-        {
-          "title": "特朗普访华",
-          "platforms": [
-            "微博"
-          ],
-          "heat": 864465,
-          "note": "中美元首外交动向"
-        },
-        {
-          "title": "4月汽车销量前10仅1款油车",
-          "platforms": [
-            "微博"
-          ],
-          "heat": 392657,
-          "note": "新能源渗透率创新高"
-        },
-        {
-          "title": "宇树GD01载人变形机甲390万元起",
-          "platforms": [
-            "知乎"
-          ],
-          "note": "具身智能消费级新品"
-        },
-        {
-          "title": "深圳夫妻囤芯片5个月暴涨320亿",
-          "platforms": [
-            "知乎"
-          ],
-          "note": "存储涨价周期讨论"
-        },
-        {
-          "title": "京沪高铁涨价20%",
-          "platforms": [
-            "知乎"
-          ],
-          "note": "二等座可超800元"
-        },
-        {
-          "title": "白鹿演唱会过审",
-          "platforms": [
-            "微博"
-          ],
-          "heat": 815169,
-          "note": "演艺市场复苏"
-        }
-      ],
-      "domestic": [
-        "中塔联合声明发表",
-        "李强会见塔吉克斯坦总统拉赫蒙",
-        "万科A就220亿股东借款与深铁集团签补充协议",
-        "全国统一电力交易App上线消息被中电联否认",
-        "湖南江西福建大暴雨气象预警",
-        "吉林空天信息产业卫星核心零部件全部国产化"
-      ],
-      "intl": [
-        "美参议院投票批准凯文·沃什出任美联储主席",
-        "BBC: 特朗普称伊朗停火协议处于massive life support状态",
-        "乌克兰反腐:泽连斯基前办公厅主任Yermak涉洗钱被调查",
-        "Dali货船运营商因巴尔的摩大桥坍塌被起诉",
-        "乌干达穆塞韦尼宣誓就任第七任期延续40年执政",
-        "EU委员会主席冯德莱恩主张推迟儿童使用社交媒体"
-      ],
-      "finance": [
-        "美股低开低走纳指跌2%,特斯拉-5%、英特尔-10.91%、美光-10%",
-        "美4月CPI同比3.8%、核心CPI 2.8%(伊朗战争推高能源通胀)",
-        "美股半导体指数跌超4%,高通-12%、英特尔-9.1%",
-        "韩10年期国债收益率破4%,市场加息预期升温",
-        "软银4.57亿美元加注Graphcore瞄准AGI",
-        "SpaceX与谷歌洽谈太空轨道数据中心合作",
-        "印度4月CPI升至3.48%输入型能源通胀风险积聚",
-        "中东暗战升级:科威特称伊朗军方人员企图渗透波斯湾岛屿"
-      ],
-      "bse_ipo": [
-        "2026-05-13 周三 朗信电气(920220) 发行价28.29元(乘用车热管理电子风扇市占率第一)"
-      ],
-      "tech": [
-        "TanStack NPM 供应链攻击事后剖析(HN首页热议)",
-        "Bambu Lab 被指滥用开源社区契约(HN)",
-        "Amazon员工被迫tokenmaxxing迎合AI使用KPI",
-        "Launch HN: Voker (YC S24) 为AI Agent做分析",
-        "eBay拒绝GameStop $56B收购报价",
-        "EU严打TikTok/Instagram针对儿童的成瘾设计",
-        "Profiling.sampling 统计采样分析器(Python 3.15方向)"
-      ],
-      "papers": [
-        {
-          "cat": "HF",
-          "title": "Key-Value Means (KVM)",
-          "note": "注意力可累加KV均值块循环,把Transformer改造为O(N)块级RNN几乎不增参(14票)",
-          "arxiv": "2605.09877"
-        },
-        {
-          "cat": "cs.AI",
-          "title": "Auto-Rubric as Reward",
-          "note": "从隐式偏好到显式多模态生成准则,自动形成reward rubric",
-          "arxiv": "2605.08354"
-        },
-        {
-          "cat": "cs.CL",
-          "title": "33-model metacognitive monitoring atlas",
-          "note": "33个前沿LLM在MMLU各领域的元认知校准图谱",
-          "arxiv": "2605.06673"
-        },
-        {
-          "cat": "cs.IR",
-          "title": "OpenIIR:开放IR模拟平台",
-          "note": "用LLM驱动的persona跑可复现IR实验",
-          "arxiv": "2605.09321"
-        },
-        {
-          "cat": "cs.RO",
-          "title": "Hierarchical Prompting with Dual LLM Modules",
-          "note": "双LLM分层提示做机器人任务与运动规划",
-          "arxiv": "2605.08330"
-        },
-        {
-          "cat": "HF",
-          "title": "A Single Neuron Is Sufficient to Bypass Safety Alignment",
-          "note": "扰动单个拒绝神经元即可绕过安全对齐,红队/对齐警示",
-          "arxiv": "2605.08513"
-        }
-      ],
-      "ph": [
-        "ClawDocu — Claude Native文档审查协作工具(Show HN)",
-        "Dragoman — Claude Code子代理多模型路由(Show HN)",
-        "Bullseye — 免费的Marketplace deal-finder(Show HN)"
-      ],
-      "github_trending": [
-        {
-          "name": "tinyhumansai/openhuman",
-          "desc": "个人AI超级智能,私有简单可用"
-        },
-        {
-          "name": "rohitg00/agentmemory",
-          "desc": "AI编码Agent持久记忆(基于实际基准)"
-        },
-        {
-          "name": "CloakHQ/CloakBrowser",
-          "desc": "通过所有反爬测试的Stealth Chromium"
-        },
-        {
-          "name": "apernet/hysteria",
-          "desc": "高速抗审查代理工具"
-        },
-        {
-          "name": "mattpocock/skills",
-          "desc": "工程师真实可用的Claude Skills集合"
-        }
-      ]
+  "session": "evening",
+  "hot": [
+    {
+      "title": "南京审计大学偷拍事件",
+      "ctx": "研究生疑偷拍女生裙底，已被开除拟录用公务员资格停职，舆情持续 (微博#1+知乎#3)"
+    },
+    {
+      "title": "特朗普访华",
+      "ctx": "中美元首外交节奏推进，市场关注关税与出口管制松动 (微博#2)"
+    },
+    {
+      "title": "宇树 GD01 载人变形机甲",
+      "ctx": "定价390万元起，AI硬件具身化叙事 (知乎#4)"
+    },
+    {
+      "title": "京沪高铁涨价20%",
+      "ctx": "二等座可超800元，反映铁路市场化定价压力 (知乎#7)"
+    },
+    {
+      "title": "深圳夫妻囤芯片身价暴涨320亿",
+      "ctx": "存储涨价周期，普通人参与可能性引讨论 (知乎#1)"
+    },
+    {
+      "title": "AG战胜狼队",
+      "ctx": "电竞KPL热门赛事 (微博#9)"
     }
-  }
+  ],
+  "domestic": [
+    "中电联否认牵头打造全国统一电力交易App",
+    "万科A就220亿股东借款与深铁集团签补充协议",
+    "4连板宝鼎科技澄清未销售高速覆铜板M7/M9",
+    "李强会见塔吉克斯坦总统拉赫蒙",
+    "湖南江西福建等地暴雨蓝色预警，局地大暴雨",
+    "吉林发力空天信息产业，卫星核心零部件全部国产化"
+  ],
+  "intl": [
+    "Trump：与伊朗停火'极度脆弱'，强烈批评伊方反提案",
+    "乌克兰反腐：泽连斯基前办公厅主任 Yermak 涉洗钱被列嫌疑人",
+    "BBC: Dali 货船运营方因巴尔的摩大桥垮塌被起诉",
+    "乌干达总统 Museveni 81 岁就职第七任，统治40年延续",
+    "von der Leyen：欧盟需推迟未成年人社媒访问年龄"
+  ],
+  "finance": [
+    "美4月CPI 3.8%/核心 2.8%（伊朗战争推高能源通胀）→ 美联储路径生变",
+    "美股半导体指数跌4%+，高通-12%、英特尔-9.1%、美光跌幅扩大",
+    "印度4月CPI 3.48%，输入型能源通胀风险积聚",
+    "美参议院投票确认凯文·沃什担任美联储主席资格通过中",
+    "特朗普政府预测：与伊朗战争相关原油停产5月达峰约1080万桶/日",
+    "SpaceX洽谈与Google合作太空轨道数据中心",
+    "软银4.57亿美元加注Graphcore冲AGI",
+    "韩国10年期国债破4%，加息预期升温",
+    "★ 北交所新股：朗信电气(920220) 5/13 周三申购，发行价28.29元"
+  ],
+  "tech": [
+    "Bambu Lab 被指滥用开源社区社会契约 (HN #2)",
+    "Amazon员工因AI使用压力'tokenmaxxing' (HN)",
+    "TanStack NPM 供应链攻击事后剖析 (HN)",
+    "eBay 拒绝 GameStop 555 亿美元报价",
+    "Anthropic / Claude 持仓与算力线持续扩张（pgs from knowledge_threads）",
+    "Voker (YC S24) 发布 AI Agent 分析平台 (Launch HN)"
+  ],
+  "papers": [
+    {
+      "cat": "cs.CL/HF",
+      "title": "Key-Value Means (KVM)",
+      "note": "提出注意力的块级递归KVM，固定/增长状态二选一。把Transformer部分推断推向O(N)线性复杂度，是HF日榜↑14的最热条目。"
+    },
+    {
+      "cat": "cs.AI",
+      "title": "Where Reliability Lives in VLMs (Mechanistic Study)",
+      "note": "对VLM做注意力/隐状态/因果电路三层归因，挑战'高置信度=可靠'的直觉。可解释性方向重要进展。"
+    },
+    {
+      "cat": "HF/Agent",
+      "title": "DeepRefine: Agent-Compiled Knowledge Refinement via RL",
+      "note": "用RL让Agent持续编译外部知识，解决长期记忆漂移。和Hermes当前内存机制呼应。"
+    },
+    {
+      "cat": "cs.IR",
+      "title": "OpenIIR: Open Simulation Platform for IR",
+      "note": "用LLM驱动数百个'虚拟用户'做可复现IR研究。推荐/搜索研究范式更新。"
+    },
+    {
+      "cat": "cs.RO",
+      "title": "VLADriver-RAG: RAG-VLA for Autonomous Driving",
+      "note": "把检索增强带进VLA驾驶模型，让自动驾驶有'查阅手册'能力。"
+    }
+  ],
+  "ph_showhn": [
+    "Show HN: Dragoman — Claude Code 多模型路由（sub-agents）",
+    "Show HN: ClawDocu — Claw 原生文档审阅协作工具",
+    "Show HN: MCP for cross-functional software teams",
+    "Show HN: Monkey Type for Devs（程序员版打字训练）",
+    "Show HN: Isle31 — 锁定终身的31人小群组实验"
+  ],
+  "github_trending": [
+    {
+      "repo": "tinyhumansai/openhuman",
+      "note": "个人AI超级智能（私有、本地）—— Agent生态延伸"
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "note": "#1 AI编码Agent持久记忆，与Hermes记忆机制相关 ★"
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "note": "绕过反爬检测的隐身Chromium，对daily-news反爬阶梯Level 5正是兜底。"
+    },
+    {
+      "repo": "apernet/hysteria",
+      "note": "高性能抗审查代理"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "note": "工程师向Claude Skills集合，与Hermes skills生态可借鉴 ★"
+    }
+  ],
+  "threads_progress": [
+    {
+      "thread": "AI Agent生态演进",
+      "update": "GitHub Trending连续Agent霸榜（agentmemory/openhuman/AiToEarn）；Show HN出现Dragoman多模型路由——SDK进入应用爆发期已落地。"
+    },
+    {
+      "thread": "中东地缘+油价",
+      "update": "美4月CPI 3.8% 创2023年5月以来新高，明确归因伊朗战争能源冲击；与伊朗5月原油停产预测达峰1080万桶/日。"
+    }
+  ]
 }
