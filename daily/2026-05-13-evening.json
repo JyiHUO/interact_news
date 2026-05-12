@@ -1,0 +1,75 @@
+{
+  "date": "2026-05-13",
+  "edition": "evening",
+  "hot": [
+    {"topic": "南京审计大学偷拍男生被开除", "src": ["微博#1","知乎#3"]},
+    {"topic": "特朗普访华", "src": ["微博#2"]},
+    {"topic": "深圳夫妻囤存储芯片5个月身价暴涨320亿", "src": ["知乎#1"]},
+    {"topic": "宇树发布GD01载人变形机甲390万元起", "src": ["知乎#4"]},
+    {"topic": "京沪高铁涨价20% 二等座超800元", "src": ["知乎#7"]},
+    {"topic": "4月汽车销量前10仅1款油车", "src": ["微博#10"]}
+  ],
+  "domestic": [
+    "万科A就220亿股东借款与深铁集团签补充协议",
+    "何立峰率团赴韩与美方经贸磋商",
+    "暴雨蓝色预警 湘赣闽局地大暴雨",
+    "吉林空天信息产业 卫星核心零部件全部国产化",
+    "中电联否认全国统一电力交易App上线",
+    "李强会见塔吉克斯坦总统拉赫蒙"
+  ],
+  "intl": [
+    "沃什获美参议院多数支持任美联储主席提名资格",
+    "特朗普称伊朗停火靠生命支持系统勉强维持",
+    "乌反腐：泽连斯基前办公室主任叶尔马克出庭",
+    "eBay拒绝GameStop 555亿美元收购",
+    "科威特称伊朗军方人员企图渗透波斯湾岛屿被捕"
+  ],
+  "finance": [
+    {"item": "美股科技股暴跌 半导体指数跌4%+", "details": "美光-10% 英特尔-9.1% 高通-12% 特斯拉-5% 纳指跌2%"},
+    {"item": "美4月CPI 3.8% 核心CPI 2.8%", "note": "2023年5月以来新高 能源通胀输入"},
+    {"item": "EIA：霍尔木兹海峡关闭至5月底 6月逐步恢复", "note": "原油停产5月达峰1080万桶/日 布伦特95美元/桶"},
+    {"item": "EIA：2027年美国商业用电首次超过民用", "note": "AI/数据中心拉动"},
+    {"item": "SpaceX与谷歌洽太空轨道数据中心+火箭发射"},
+    {"item": "软银4.57亿美元加注Graphcore"},
+    {"item": "北交所打新 5/13 朗信电气(920220) 28.29元"},
+    {"item": "OpenAI CEO奥特曼将在马斯克诉讼案作证"},
+    {"item": "印度4月CPI 3.48% 连续6月上涨"}
+  ],
+  "tech": [
+    "Bambu Lab滥用开源社区契约（HN头条）",
+    "Instructure向黑客支付Canvas勒索赎金",
+    "TanStack NPM供应链攻击事后剖析",
+    "Voker (YC S24) Launch HN：AI Agent分析",
+    "Profiling.sampling 统计采样profiler",
+    "谷歌联合PC厂商开发首款谷歌书籍",
+    "Obsidian插件未来讨论"
+  ],
+  "papers": [
+    {"category":"HF/cs.LG","title":"Key-Value Means (KVM)","note":"块级注意力递归 O(N)线性","arxiv":"2605.09877"},
+    {"category":"HF/Agent","title":"Conformal Agent Error Attribution","note":"多Agent失败定位","arxiv":"2605.06788"},
+    {"category":"HF/Safety","title":"A Single Neuron Is Sufficient to Bypass Safety Alignment","note":"对齐脆弱性","arxiv":"2605.08513"},
+    {"category":"cs.AI","title":"Embeddings for Preferences, Not Semantics","note":"集体决策偏好向量","arxiv":"2605.08360"},
+    {"category":"cs.IR","title":"UserGPT Technical Report","note":"个性化用户理解","arxiv":"2605.08766"}
+  ],
+  "ph_showhn": [
+    {"name":"articuler.ai","votes":427,"note":"9.8亿公开档案匹配 冷邮件15%回复率"},
+    {"name":"OpenJobs AI","votes":375,"note":"自主智能招聘Agent"},
+    {"name":"Graphbit PRFlow","votes":358,"note":"AI代码审查 按审核次数计费"},
+    {"name":"Show HN: Vibe"},
+    {"name":"Show HN: Profine","note":"PyTorch训练循环profile重写"},
+    {"name":"Show HN: CircadianLab","note":"WebGPU radiosity光照仿真"}
+  ],
+  "github_trending": [
+    {"repo":"CloakHQ/CloakBrowser","stars":7391,"note":"隐身Chromium 反爬Level5兜底"},
+    {"repo":"apernet/hysteria","stars":20108,"note":"抗审查代理"},
+    {"repo":"mattpocock/skills","stars":75424,"note":"Claude Skills集合"},
+    {"repo":"rohitg00/agentmemory","stars":5590,"note":"AI编码Agent持久记忆"},
+    {"repo":"datawhalechina/hello-agents","note":"中文智能体教程"}
+  ],
+  "long_threads": [
+    "中东地缘+油价（D6）：EIA官宣霍尔木兹封锁延续至5月底",
+    "美联储主席继任：沃什获参议院多数支持，鹰派接班程序启动",
+    "AI算力外溢太空：SpaceX-谷歌洽轨道数据中心",
+    "美股AI估值压力测试：半导体板块单日跌4%+"
+  ]
+}
