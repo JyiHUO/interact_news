@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-13",
+  "period": "noon",
+  "doc_id": "SUC6d5Sbxo5ocxxjDRVcy3cmnwh",
+  "url": "https://feishu.cn/docx/SUC6d5Sbxo5ocxxjDRVcy3cmnwh",
+  "hot": [
+    {"title": "特朗普抵京", "context": "首次任内访华，与习近平举行高规格会晤；议题涵盖伊朗、关税、AI、台湾", "sources": ["微博#1", "Google CN", "BBC#1"]},
+    {"title": "马化腾回应AI掉队", "context": "腾讯电话会上正面回应外界'AI落后'质疑，宣布资本支出加码", "sources": ["微博#5", "华尔街见闻"]},
+    {"title": "天舟十号货运飞船发射", "context": "为空间站补给关键任务", "sources": ["微博#3"]},
+    {"title": "FIFA喊话中国队世界杯", "context": "国际足联希望中国队参与世界杯", "sources": ["微博#2", "知乎#6"]},
+    {"title": "小米四款新车曝光", "context": "新车阵容流出", "sources": ["微博#6", "知乎#8"]},
+    {"title": "追觅 vs 俞浩崩老头事件升级", "context": "雷鸣否认造谣抹黑、强占地方钱搬迁", "sources": ["知乎#5"]},
+    {"title": "迪士尼优速通插队事件", "context": "排队3小时被付费插队，引发金钱伦理大讨论", "sources": ["知乎#4"]},
+    {"title": "37届金曲奖入围名单", "context": "单依纯《纯妹妹》5项提名", "sources": ["知乎#2"]}
+  ],
+  "tech": [
+    {"title": "阿里云 AI ARR 年底超300亿元", "detail": "资本支出超3800亿，没一张卡闲置"},
+    {"title": "腾讯下半年大量国产芯片部署", "detail": "国产替代主线"},
+    {"title": "马化腾公开回应 AI 掉队"},
+    {"title": "MiniCPM-V 4.6 上架", "detail": "1.3亿参数移动端多模态"},
+    {"title": "九章四号可编程量子计算原型机"},
+    {"title": "Hopper：首个大型机/COBOL 自主开发环境"},
+    {"title": "Vexilo · Claude Code 规划器"}
+  ],
+  "papers": [
+    {"category": "cs.AI", "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents", "url": "https://arxiv.org/abs/2605.11169"},
+    {"category": "cs.CL", "title": "Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs", "url": "https://arxiv.org/abs/2605.11128"},
+    {"category": "cs.IR", "title": "Beyond Similarity Search: Tenure and the Case for Structured Belief State in LLM Memory", "url": "https://arxiv.org/abs/2605.11325"},
+    {"category": "cs.RO", "title": "ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models", "url": "https://arxiv.org/abs/2605.10993"},
+    {"category": "HF Daily", "title": "Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs", "url": "https://arxiv.org/abs/2605.07153"}
+  ],
+  "finance": [
+    {"title": "美4月PPI同比+6%", "detail": "创2022年12月以来新高，超预期，华尔街押注加息"},
+    {"title": "阿里电话会：AI ARR 年底超300亿，capex >3800亿"},
+    {"title": "腾讯电话会：资本支出加码 + 下半年更多国产芯片"},
+    {"title": "高盛：阿斯麦严重低估"},
+    {"title": "现货白银涨2% 报88.24美元/盎司"},
+    {"title": "ARM和软银曾试图收购Cerebras 遭拒"},
+    {"title": "摩根士丹利上调标普500目标至8300"},
+    {"title": "★ 北交所打新：5/13 朗信电气(920220) 发行价28.29元"}
+  ],
+  "github_trending": [
+    {"repo": "tinyhumansai/openhuman", "lang": "Rust", "stars": 4380, "today": 1595, "desc": "Personal AI super intelligence. Private, Simple and extremely powerful."},
+    {"repo": "obra/superpowers", "lang": "Shell", "stars": 189122, "today": 1419, "desc": "An agentic skills framework & software development methodology"},
+    {"repo": "rohitg00/agentmemory", "lang": "TypeScript", "stars": 7030, "today": 1335, "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"},
+    {"repo": "yikart/AiToEarn", "lang": "TypeScript", "stars": 12685, "today": 987, "desc": "Let's use AI to Earn!"},
+    {"repo": "millionco/react-doctor", "lang": "TypeScript", "stars": 9114, "today": 620, "desc": "Your agent writes bad React. This catches it"}
+  ],
+  "product_hunt": [
+    {"rank": 1, "name": "Kelviq", "votes": 468, "desc": "SaaS/AI 公司一站式货币化平台"},
+    {"rank": 2, "name": "Open Vibe", "votes": 280, "desc": "Claude Code 变 SaaS 导师"},
+    {"rank": 3, "name": "Jotform Claude App", "votes": 228, "desc": "Claude 内创建/编辑/分析表单"},
+    {"rank": 4, "name": "Hyperswitch Prism", "votes": 217, "desc": "无状态支付库 (Apache-2.0)"},
+    {"rank": 6, "name": "Free AI SEO Auditor", "votes": 154, "desc": "全开源 AI 搜索可见性 0-100 评分"}
+  ]
+}
