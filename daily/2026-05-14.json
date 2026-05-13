@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-14",
+  "period": "morning",
+  "doc_id": "Kuxld7IQwozk4hxZofcckisKnBf",
+  "doc_url": "https://feishu.cn/docx/Kuxld7IQwozk4hxZofcckisKnBf",
+  "hot": [
+    {"title": "特朗普抵京", "summary": "美国总统抵达北京举行第二任期内首次中美元首峰会，2017年以来首次访华", "sources": ["微博#1", "头条", "Google News"]},
+    {"title": "马化腾回应AI掉队", "summary": "腾讯股东会上马化腾回应AI布局质疑", "sources": ["微博#5"]},
+    {"title": "天舟十号发射回顾", "summary": "天舟十号货运飞船成功发射全过程回顾刷屏", "sources": ["微博#3"]},
+    {"title": "日本爆发反战抗议", "summary": "针对再军事化政策的大规模抗议", "sources": ["微博#4"]},
+    {"title": "九章四号量子计算破纪录", "summary": "中国量子计算原型机再刷算力纪录", "sources": ["新华网"]}
+  ],
+  "tech": [
+    {"title": "思科AI订单暴增", "summary": "思科本季全年指引超预期，AI订单大幅上调，盘后两位数高涨"},
+    {"title": "Linux游戏反超Windows", "summary": "Wine/Proton借Linux内核特性跑赢原生Windows"},
+    {"title": "Medicare新付费模型为AI设计", "summary": "美国医保新付费模型为AI上下文量身设计"}
+  ],
+  "papers": [
+    {"category": "cs.CL", "title": "Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs"},
+    {"category": "cs.AI", "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for LLM ReAct Agents"},
+    {"category": "cs.IR", "title": "Debiasing Message Passing to Mitigate Popularity Bias in GNN-based CF"},
+    {"category": "cs.CV", "title": "HiDream-O1-Image: Pixel-level Unified Transformer"},
+    {"category": "HF Daily", "title": "LLM Agents Already Know When to Call Tools -- Even Without Reasoning"}
+  ],
+  "finance": [
+    {"title": "思科Q报全面超预期，盘后两位数高涨"},
+    {"title": "Cerebras IPO 估值逼近490亿美元，Arm/软银曾求购被拒"},
+    {"title": "30年期美债标售利率自07年金融危机首次升破5.0%"},
+    {"title": "美国4月PPI超预期"},
+    {"title": "沃什以最微弱优势获参院确认任美联储主席"}
+  ],
+  "github_trending": [
+    {"repo": "obra/superpowers", "stars": 189440, "desc": "agentic skills framework & software dev methodology"},
+    {"repo": "K-Dense-AI/scientific-agent-skills", "stars": 21092, "desc": "ready to use Agent Skills for research/science"},
+    {"repo": "yikart/AiToEarn", "stars": 12870, "desc": "Use AI to Earn"},
+    {"repo": "millionco/react-doctor", "stars": 9251, "desc": "linter for bad React from agents"},
+    {"repo": "rohitg00/agentmemory", "stars": 7536, "desc": "Persistent memory for AI coding agents"}
+  ]
+}
