@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-14",
+  "period": "noon",
+  "doc_url": "https://feishu.cn/docx/FBlRdb3IDoRcBAxPbKIcYReZnXc",
+  "hot": [
+    {"title": "中美元首祈年殿合影", "source": "weibo#1", "heat": 1628933},
+    {"title": "特朗普参观天坛", "source": "weibo#2", "heat": 1554066},
+    {"title": "中美经贸团队达成积极成果", "source": "weibo#5", "heat": 1000596},
+    {"title": "小米开源 xiaomionevl 自驾模型", "source": "zhihu#8"}
+  ],
+  "tech": ["Claude for Small Business", "Cisco 裁员", "OpenAI 回应 TanStack 攻击", "Linux 游戏反超 Windows"],
+  "papers": [
+    {"id": "2605.12617", "title": "MLPs are Efficient Distilled Generative Recommenders", "cat": "cs.IR"},
+    {"id": "2605.12411", "title": "Predicting Decisions of AI Agents from Limited Interaction", "cat": "HF/cs.AI"},
+    {"id": "2605.12515", "title": "Mitigating Cross-Lingual Cultural Inconsistencies via Consensus-Driven DPO", "cat": "cs.CL"},
+    {"id": "2605.10268", "title": "MemReread", "cat": "HF/cs.LG"},
+    {"id": "2605.12624", "title": "MindVLA-U1", "cat": "cs.RO"}
+  ],
+  "finance": ["A股创业板跌近2%", "成交破2.5万亿", "阿里港股+5%", "Eneos 22亿美元收购雪佛龙亚洲资产"]
+}
