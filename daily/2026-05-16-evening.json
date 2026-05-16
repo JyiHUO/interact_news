@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-16",
+  "period": "evening",
+  "doc_id": "PRnkdNmw6ogZb9xIXKUcYH6mnSf",
+  "url": "https://feishu.cn/docx/PRnkdNmw6ogZb9xIXKUcYH6mnSf",
+  "highlights": [
+    "中美元首会晤后续：商务部确认关税共识，王毅同步说明",
+    "美以或最早下周重启对伊军事行动",
+    "普京5月19-20日对华国事访问",
+    "全球股债双杀，英伟达跌超4%，AI叙事首轮 reprice",
+    "AI算力 vs 化石能源瓶颈：Energy Aspects 警告"
+  ],
+  "hot": [
+    "特朗普访华后空军一号专访",
+    "黄仁勋北京胡同行/蜜雪冰城联动",
+    "德国车企大裁员",
+    "波音200架订单股价反跌",
+    "DeepSeek <think 触发奇怪回复"
+  ],
+  "tech": [
+    "OpenAI 与马耳他国家级 ChatGPT Plus 协议",
+    "国产光纤光模块卖爆全球",
+    "Anthropic Claude Code Skills 方法论流出",
+    "Claude Code 第三方 API 缓存命中率下降"
+  ],
+  "papers": [
+    "Lighthouse Attention 长上下文预训练",
+    "Multi-Agent Pathfinding 局部通信",
+    "ATLAS Agentic vs Latent 视觉推理",
+    "Is Grep All You Need? Agent Harness",
+    "WildTableBench"
+  ],
+  "finance": [
+    "全球股债双杀英伟达跌4%",
+    "美银美林十年宏观图景",
+    "Energy Aspects: AI算力本质是石油",
+    "MUFG: 日股酷似1999年互联网泡沫",
+    "高盛: 标普500市场广度近几十年最低"
+  ],
+  "github": [
+    "obra/superpowers",
+    "oven-sh/bun",
+    "ruvnet/RuView",
+    "K-Dense-AI/scientific-agent-skills",
+    "tinyhumansai/openhuman"
+  ]
+}
