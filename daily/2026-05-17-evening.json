@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-17",
+  "period": "evening",
+  "doc_url": "https://feishu.cn/docx/AJHPdUCd1oEeHIxH9eYcU1A7nGL",
+  "doc_id": "AJHPdUCd1oEeHIxH9eYcU1A7nGL",
+  "hot": [
+    "国轩高科固态电池1元时代",
+    "长鑫科技 Q1 +719%",
+    "巨力索具被立案",
+    "HermesAgent token 第一",
+    "Token 像手机流量？"
+  ],
+  "finance": [
+    "长鑫科技半年报 1100-1200亿",
+    "AI ASIC 风口研报",
+    "CMP+先进封装+光刻胶",
+    "国产特种光纤第一股",
+    "华尔街抛美债买日债",
+    "高盛 AI 看多但买对冲",
+    "AI 内存芯片崩盘风险叙事"
+  ],
+  "tech": [
+    "无锡 Token 工厂",
+    "中电信 Token 套餐",
+    "Manus 创始人 130 万美元月账单",
+    "具身智能中试基地揭牌",
+    "Mozilla 致 UK 监管：VPN 必要"
+  ],
+  "papers": [
+    "2605.14438 BEAM (MoE binary routing)",
+    "2605.15012 RLVR + few-shot guidance",
+    "2605.14454 LiSA lifelong safety",
+    "2605.01018 WildTableBench",
+    "2605.12243 PreScam"
+  ],
+  "github_trending": [
+    {
+      "name": "oven-sh/bun",
+      "stars": 91600
+    },
+    {
+      "name": "calcom/cal.diy",
+      "stars": 43020
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 35271
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "stars": 14785
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": 11742
+    }
+  ]
+}
