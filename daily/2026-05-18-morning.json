@@ -1,0 +1,52 @@
+{
+  "date": "2026-05-18",
+  "period": "morning",
+  "doc_url": "https://feishu.cn/docx/RASadXPSto6KJexZBOacKQT6nJe",
+  "hot": [
+    "广西柳州 5.2 级地震",
+    "樊振东欧冠 0:3 不敌 A·勒布伦",
+    "长鑫科技 Q1 营收 +719%，IPO 提速",
+    "张雪机车 WSBK 捷克站夺第 5 冠",
+    "中美阿三国警方联合反诈"
+  ],
+  "tech": [
+    "Mistral CEO 警告欧洲 AI 2 年窗口",
+    "EU 拟限制美云处理政府数据",
+    "微软 BitLocker 后门 exploit 公开",
+    "DNA 引导 CRISPR 基因编辑首创"
+  ],
+  "papers": [
+    {
+      "title": "Realiz3D: 3D Generation Made Photorealistic",
+      "id": "2605.13852",
+      "upvotes": 22
+    },
+    {
+      "title": "Long Context Pre-Training with Lighthouse Attention",
+      "id": "2605.06554",
+      "upvotes": 21
+    },
+    {
+      "title": "Learning to Communicate Locally for MAPF",
+      "id": "2605.07637",
+      "upvotes": 17
+    },
+    {
+      "title": "FrontierSmith: Open-Ended Coding Problems at Scale",
+      "id": "2605.14445",
+      "upvotes": 17
+    },
+    {
+      "title": "ViMU: Video Metaphorical Understanding",
+      "id": "2605.14607",
+      "upvotes": 11
+    }
+  ],
+  "finance": [
+    "WTI +1.2% 报 106.6",
+    "白银 +1% 报 76.7",
+    "美联储 6 月不降息概率 99.2%",
+    "本周英伟达财报",
+    "G7 财长央行会议 5/18-19"
+  ]
+}
