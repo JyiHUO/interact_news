@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-17",
+  "period": "midday",
+  "doc_url": "https://feishu.cn/docx/GMfpdzLHvocFpexGIKEcSCpvnIb",
+  "hot": [
+    "AI 算力按任务计费讨论",
+    "佛山负增长",
+    "普京访华",
+    "SpaceX IPO",
+    "中际旭创毛利率改善",
+    "商铺空置",
+    "给阿嬷的情书逆袭"
+  ],
+  "tech": [
+    "Grafana Labs 内部源码泄露",
+    "5 LLM 狼人杀+私有DuckDB",
+    "LLM 架构KV共享/MHC/压缩注意力",
+    "Self-Distillation Continual Learning"
+  ],
+  "papers": [
+    {
+      "title": "Long Context Pre-Training with Lighthouse Attention",
+      "id": "2605.06554"
+    },
+    {
+      "title": "Boosting RL with Verifiable Rewards via Few-Shot Guidance",
+      "id": "2605.15012"
+    },
+    {
+      "title": "BEAM: Binary Expert Activation Masking for MoE",
+      "id": "2605.14438"
+    }
+  ],
+  "finance": [
+    "普京访华",
+    "霍尔木兹6月重开存疑",
+    "美债破位重挫贵金属",
+    "SpaceX加速IPO",
+    "光模块Q1毛利率改善",
+    "盖茨基金会清仓微软",
+    "三星罢工倒计时"
+  ],
+  "github_trending": [
+    {
+      "path": "/obra/superpowers",
+      "stars": 194294
+    },
+    {
+      "path": "/oven-sh/bun",
+      "stars": 91395
+    },
+    {
+      "path": "/ruvnet/RuView",
+      "stars": 58526
+    },
+    {
+      "path": "/K-Dense-AI/scientific-agent-skills",
+      "stars": 23341
+    },
+    {
+      "path": "/Anil-matcha/Open-Generative-AI",
+      "stars": 14597
+    }
+  ],
+  "producthunt": [
+    "Gemini 3.1 Flash-Lite",
+    "Agentmemory",
+    "Raybeam",
+    "Loova Agents",
+    "Wring",
+    "ChatGPT for Personal Finance"
+  ]
+}
