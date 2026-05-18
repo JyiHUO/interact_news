@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-18",
+  "period": "midday",
+  "doc_url": "https://feishu.cn/docx/W8yudz7NuouWXhxcHOicRfwZnOc",
+  "hot": [
+    "Anthropic 300亿美元融资 9000亿估值 AI泡沫之辩",
+    "GPT-5.5涨价 vs DeepSeek降价 应用层定价权博弈",
+    "耿同学再爆4校5名杰青Nature论文造假",
+    "美军EA-18航展空中相撞 飞行员安全弹射",
+    "AI代替大脑 豆包指挥思考反思",
+    "亚历山大蝉联常规赛MVP",
+    "沪深成交连续26日破2万亿",
+    "日本长端国债收益率全线飙升"
+  ],
+  "domestic": [
+    "广西柳州5.2级地震",
+    "千帆星座第9批组网卫星发射",
+    "湖北荆州暴雨停工停产停业停运停课",
+    "户籍-公共服务脱钩文件将出台",
+    "北斗终端保有量超22亿台/套"
+  ],
+  "intl": [
+    "EA-18航展相撞",
+    "特朗普对伊朗武力威胁 美以讨论重启对伊战事",
+    "UAE报告阿布扎比核电站附近遭袭",
+    "意大利汽车冲撞行人8人受伤",
+    "斯塔默拟辞英国首相"
+  ],
+  "finance": [
+    "日本10Y JGB +10bp 至 2.8%, 30Y 至 4.09%",
+    "NextEra拟660亿美元收购Dominion 史上最大电力并购",
+    "冈拉克警告下月CPI破4 美联储无降息空间",
+    "PCB/AI眼镜概念走强",
+    "低硫燃料油主力日内+8%",
+    "高盛预测央行2026月均购金60吨",
+    "1.6T光模块迎200%爆发增长"
+  ],
+  "tech": [
+    "Anthropic $30B raise",
+    "千问全面接入淘宝 Agent接管跨境电商",
+    "从追GPU到追Gigawatts (Coatue)",
+    "太空数据中心2年内验证讨论",
+    "电子级氢氟酸告急",
+    "AMD SEV-SNP 通过 Infinity Fabric 误配被破解"
+  ],
+  "papers": [
+    "From Plans to Pixels: Open-Ended Image Editing",
+    "OmniHumanoid: Cross-Embodiment Video Generation",
+    "Unlocking Dense Metric Depth in VLMs",
+    "Learning from Failures: Correction-Oriented RLVR",
+    "Solvita: Agentic Evolution for Competitive Programming",
+    "Quantization Undoes Alignment (Bias in Compressed LLMs)"
+  ],
+  "github_trending": [
+    "oven-sh/bun (91.8k)",
+    "calcom/cal.diy (43.4k)",
+    "HKUDS/CLI-Anything (35.9k)",
+    "Anil-matcha/Open-Generative-AI (15.4k)",
+    "tinyhumansai/openhuman (14.2k)"
+  ],
+  "ph_showhn": [
+    "Vivago Video Agent",
+    "Files SDK",
+    "Pdf2md (Show HN)",
+    "AnyFrame Sandboxes (Show HN)",
+    "Cheap-IM CPU voice agent (Show HN)"
+  ]
+}
