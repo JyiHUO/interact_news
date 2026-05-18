@@ -1,0 +1,140 @@
+{
+  "date": "2026-05-19",
+  "period": "morning",
+  "doc_url": "https://feishu.cn/docx/UQJzdwggioOjzIxbknNcDPaCnzf",
+  "hot": [
+    {
+      "title": "特朗普暂缓伊朗军事打击",
+      "source": "Google News+央广网"
+    },
+    {
+      "title": "普京今起对华国事访问",
+      "source": "人民网"
+    },
+    {
+      "title": "广西柳州 5.2 级地震致 2 死",
+      "source": "新华网"
+    },
+    {
+      "title": "民主刚果埃博拉确诊（美国公民）",
+      "source": "RFI"
+    },
+    {
+      "title": "驾考文盲包过黑驾校",
+      "source": "央视"
+    },
+    {
+      "title": "伊朗主张霍尔木兹海底光缆管理费",
+      "source": "央广网"
+    }
+  ],
+  "tech": [
+    {
+      "title": "英伟达 Vera CPU 落地 Anthropic/OpenAI/SpaceX/甲骨文"
+    },
+    {
+      "title": "Intel 14A 芯片 2028 投产 2029 量产"
+    },
+    {
+      "title": "苹果 iOS 27 大补 AI 写作/快捷指令/壁纸生成"
+    },
+    {
+      "title": "AMD 苏姿丰访华，称中国市场极其重要"
+    },
+    {
+      "title": "三大运营商开卖 Token 套餐"
+    },
+    {
+      "title": "Tenstorrent 估值或超 50 亿美元"
+    }
+  ],
+  "papers": [
+    {
+      "title": "MetaAgent-X",
+      "url": "https://arxiv.org/abs/2605.14212",
+      "category": "Multi-Agent RL"
+    },
+    {
+      "title": "ProofGrid",
+      "url": "https://arxiv.org/abs/2605.12524",
+      "category": "LLM Reasoning Eval"
+    },
+    {
+      "title": "Forgetting That Sticks",
+      "url": "https://arxiv.org/abs/2605.15138",
+      "category": "Unlearning/Safety"
+    },
+    {
+      "title": "Known By Their Actions: Fingerprinting LLM Browser Agents",
+      "url": "https://arxiv.org/abs/2605.14786",
+      "category": "Agent Security"
+    },
+    {
+      "title": "Sphere Latent Encoder",
+      "url": "https://arxiv.org/abs/2605.15592",
+      "category": "Image Synthesis"
+    }
+  ],
+  "finance": [
+    {
+      "title": "马斯克 v OpenAI 陪审团驳回"
+    },
+    {
+      "title": "海外 3 月持长期美债浮亏 1421 亿"
+    },
+    {
+      "title": "黄金 ETF SPDR 增持 1.43 吨"
+    },
+    {
+      "title": "WTI -2% 至 102.25 美元/桶（伊朗推迟）"
+    },
+    {
+      "title": "花旗：铝库存 6-12 月历史新低，3 月内或冲 4000 美元"
+    }
+  ],
+  "bse_ipo": {
+    "code": "920218",
+    "name": "新天力",
+    "subscribe_date": "2026-05-20",
+    "issue_price": 12.19,
+    "pe": 14.99,
+    "raise_amount_yi": 2.85,
+    "sector": "汽车冲压自动化+机器人末端执行器",
+    "signals": "3/4",
+    "predicted_first_day_range": "+410%~+560%",
+    "predicted_neutral": "+485%",
+    "price_range": "¥62.2~¥80.5"
+  },
+  "github_trending": [
+    {
+      "name": "ggml-org/llama.cpp",
+      "stars": 111002,
+      "language": "C++",
+      "url": "https://github.com/ggml-org/llama.cpp"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "stars": 59858,
+      "language": "Rust",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 36579,
+      "language": "Python",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "stars": 24359,
+      "language": "Python",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": 17030,
+      "language": "Rust",
+      "url": "https://github.com/tinyhumansai/openhuman"
+    }
+  ]
+}
