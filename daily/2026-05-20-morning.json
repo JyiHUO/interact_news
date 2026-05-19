@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-20",
+  "period": "morning",
+  "doc_url": "https://feishu.cn/docx/YgmYdo99CoFXJ8xkT64ctOg2nhd",
+  "hot": [
+    "普京访华",
+    "东北新稀土矿",
+    "中专生AI短片",
+    "泰国终止60天免签",
+    "阿森纳夺欧联",
+    "巨力索具家族套现30亿",
+    "i茅台晚间开抢"
+  ],
+  "tech": [
+    "Karpathy加入Anthropic",
+    "Gemini 3.5",
+    "Google Search改版",
+    "OpenAI SynthID",
+    "Mistral收购Emmi",
+    "Disney关停FiveThirtyEight",
+    "Tesla锂厂污水",
+    "Minnesota禁止预测市场"
+  ],
+  "papers": [
+    "SCICONVBENCH",
+    "WavFlow",
+    "OSCAR INT2 KV",
+    "DexHoldem",
+    "AstraFlow"
+  ],
+  "finance": [
+    "美股三大跌",
+    "费半七日跌近10%",
+    "API原油-911万桶",
+    "美联储6月维持概率99%",
+    "黄金ETF减持",
+    "Anthropic禁SPV持股",
+    "SpaceX IPO高盛主承"
+  ],
+  "bse_ipo": {
+    "code": "920218",
+    "name": "新天力",
+    "price": 12.19,
+    "first_day_predict": "+350%~500%"
+  }
+}
