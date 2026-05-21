@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-21",
+  "period": "morning",
+  "doc_url": "https://feishu.cn/docx/UMv7doKejoE1J4xmAuCcG5bun5e",
+  "hot": [
+    "普京访华 + 中俄免签延至2027",
+    "欧三国谴责以色列国安部长",
+    "阿斯顿维拉夺欧联杯",
+    "柳州地震91岁老人逃生",
+    "国台办回应给阿嬷的情书",
+    "宿迁初三家委会1260元",
+    "中科大数院学生兴趣枯竭"
+  ],
+  "tech": [
+    "英伟达AI原生云路径",
+    "Anthropic Q2 营收$109亿首次盈利",
+    "SpaceX IPO S-1 估值2万亿",
+    "Meta 8000人裁员后承诺止裁",
+    "OpenAI或本周五秘密递交IPO"
+  ],
+  "papers": [
+    {
+      "title": "S-Bus: Multi-Agent LLM State Coordination",
+      "cat": "cs.MA"
+    },
+    {
+      "title": "ThoughtTrace: User Thoughts in LLM Interactions",
+      "cat": "cs.CL"
+    },
+    {
+      "title": "Policy-Aware Rubric Rewards for RLVR",
+      "cat": "cs.LG"
+    },
+    {
+      "title": "RoPE Distinguishes Neither Positions Nor Tokens",
+      "cat": "cs.LG"
+    },
+    {
+      "title": "Zero-Shot Sim-to-Real Reactive Catching",
+      "cat": "cs.RO"
+    }
+  ],
+  "finance": [
+    "伦锡+6.04%/沪锡+4.5% AI焊料+印尼供应",
+    "玻璃基板京东方涨停 与康宁签约",
+    "CPU概念 数据中心TAM $293亿→$1315亿",
+    "港股AI次新 智谱+7.84%/MiniMax+5%",
+    "沪银+3%/金4560",
+    "央行7D逆回购净投放995亿",
+    "人民币中间价6.8349 (2023-02 来最高)"
+  ],
+  "github_trending": [
+    "multica-ai/andrej-karpathy-skills (140.9k⭐)",
+    "obra/superpowers (200k⭐)",
+    "msitarzewski/agency-agents (102k⭐)",
+    "HKUDS/CLI-Anything (38.5k⭐)",
+    "tinyhumansai/openhuman (23.7k⭐ Rust)"
+  ],
+  "zsxq_picks": [
+    "武汉光通信产业利润+85.7%能否带动房价 (员工股票解禁是关键)",
+    "食品饮料ETF vs 恒科ETF切换 (4月社零仅+0.2%远低预期)",
+    "重大外交事件 vs 股市 (博主只发数据异常+高确定性)",
+    "广州琶洲南三房自住 vs 卖出 (心态不好别用自住房博波段)"
+  ]
+}
