@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-22",
+  "period": "morning",
+  "url": "https://feishu.cn/docx/B8otdJTyKojUpUx9AmrcB9nxn1e",
+  "hot": [
+    "雷军：手机会越来越贵 + YU7 GT 38.99万",
+    "郑丽文怒骂赖清德30分钟",
+    "OpenAI证明80年距离问题",
+    "特斯拉FSD监督版可在中国使用"
+  ],
+  "tech": [
+    "Trump 搁置 AI 监管令",
+    "Waymo 暂停四城高速 Robotaxi",
+    "OpenAI Codex 新版 + Antigravity 2.0",
+    "Meta AI 大裁员准备"
+  ],
+  "papers": [
+    "TIDE: MoE Diffusion LLM I/O-aware",
+    "DynMuon: Dynamic Spectral Shaping",
+    "Byte-level subword tokenization",
+    "VPD: Variational Policy Distillation"
+  ],
+  "finance": [
+    "道指创新高，ARM +16% 存储概念领涨",
+    "光纤价格一年涨6倍",
+    "外资13F增持中概股",
+    "新睿电子5/25申购，预测首日+280%~+450%",
+    "美联储沃什今晚就职"
+  ]
+}
