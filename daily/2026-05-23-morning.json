@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-23",
+  "period": "morning",
+  "doc_url": "https://lwhssbxtkfpf.feishu.cn/docx/RlyQdoqPooI5jBxcWQgc3MTSnFc",
+  "hot": [
+    {
+      "title": "美星舰第12次试飞 V3 首秀"
+    },
+    {
+      "title": "Anthropic 估值或破 9000 亿超 OpenAI"
+    },
+    {
+      "title": "证监会重罚老虎/富途/长桥 22+ 亿"
+    },
+    {
+      "title": "小米 YU7 GT 上市刷新纽北 SUV 圈速"
+    },
+    {
+      "title": "道指新高 AMD 涨超 6%"
+    },
+    {
+      "title": "U17 亚洲杯决赛中国 vs 日本"
+    },
+    {
+      "title": "刚果埃博拉风险升至「非常高」"
+    }
+  ],
+  "tech_focus": [
+    "Anthropic 9000 亿",
+    "NVIDIA 删 Gaming 类目",
+    "Tesla Optimus 100 万产能",
+    "Llama.cpp PDL on Blackwell",
+    "Qwen3.6-35B-A3B 8GB 跑 30tps"
+  ],
+  "papers": [
+    "AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment",
+    "Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators",
+    "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation",
+    "Forecasting Scientific Progress with Artificial Intelligence",
+    "SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild"
+  ],
+  "finance": [
+    "Anthropic 9000亿融资",
+    "老虎/富途/长桥 22 亿罚单",
+    "高通 +12% 历史新高",
+    "道指新高 标普 8 周连涨",
+    "A50 期指 -0.18%",
+    "中国电动车欧洲份额 >15%"
+  ],
+  "bse_ipo": {
+    "date": "2026-05-25",
+    "name": "新睿电子",
+    "code": "920211",
+    "price": 25.19,
+    "predict_pct": "+250%~+400%",
+    "apply_threshold_300": "4424万"
+  },
+  "zsxq_topics": [
+    "两套房选择溢价比",
+    "牛市倾向周期",
+    "上海二手房收储分析",
+    "深圳60%跌幅极限",
+    "北交所新股提示"
+  ]
+}
